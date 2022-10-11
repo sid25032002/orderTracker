@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167747737885",
+    "project_id": "ordertracker-95490",
+    "storage_bucket": "ordertracker-95490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167747737885:android:61798866c59f096263a9f4",
+        "android_client_info": {
+          "package_name": "com.example.ordertracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167747737885-jcd2u96lc9emn2o4lpd5qoui0g9naspo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAebyQg1WZcrMCZXO8Yn_nAEkdRwz5qeB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167747737885-jcd2u96lc9emn2o4lpd5qoui0g9naspo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
